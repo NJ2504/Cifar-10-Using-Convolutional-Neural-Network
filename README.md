@@ -13,5 +13,5 @@ The code for downloading the cifar-10 dataset, splitting the dataset for trainin
 **Dr. James Mcdermott (Lecturer in Computer Science at the University of Galway)**
 
 The implementation definition of the Xception model is take from:
-**https://github.com/hokmund/xception-transfer-learning/blob/master/transfer-learning.ipynb**
-**https://datascience.stackexchange.com/questions/89860/input-shape-of-an-xception-cnn-model#:~:text=For%20your%20first%20question%2C%20yes,that%20would%20be%20the%20best.**
+1. **https://github.com/hokmund/xception-transfer-learning/blob/master/transfer-learning.ipynb**
+2. **https://datascience.stackexchange.com/questions/89860/input-shape-of-an-xception-cnn-model#:~:text=For%20your%20first%20question%2C%20yes,that%20would%20be%20the%20best.**
